@@ -3,7 +3,7 @@ from Interfejs_graficzny import interfejs
 interfejs()
 
 
-# Made by Arkadiusz Florek ! 
+# Made by Arkadiusz Florek ! !!
 # Biblioteki, które wykoszystałem:
 #     * Sympy - biblioteka sluzaca do obliczen symbolicznych
 #     * tkinter - biblioteka sluzaca do torzenia interfejsu graficznego
